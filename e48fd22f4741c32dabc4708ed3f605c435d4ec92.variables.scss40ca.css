@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* Original file: layouts/slow/public/css/variables.scss */
+:root {
+  --small-w: 414px;
+  --medium-w: 768px;
+  --large-w: 1024px;
+  --x-large-w: 1200px;
+  --xx-large-w: 1400px;
+  --wide-w: 1600px;
+  --x-wide-w: 1920px;
+  --color-white: white;
+  --color-black: black;
+  --color-primary: #2396ff;
+  --color-secondary: #2957ff;
+  --color-success: #13ce66;
+  --color-warning: #f7ba2a;
+  --color-danger: #ff5a57;
+  --color-info: #2957ff;
+  --color-gray-100: #f8f9fa;
+  --color-gray-200: #f1f3f5;
+  --color-gray-300: #e9ecef;
+  --color-gray-400: #dee2e6;
+  --color-gray-500: #ced4da;
+  --color-gray-600: #adb5bd;
+  --color-gray-700: #868e96;
+  --color-gray-800: #495057;
+  --color-gray-900: #343a40;
+  --color-background: white;
+  --color-text-primary: white;
+  --side-nav-width: 13rem;
+  /* header */
+  --header-height: 3.75rem;
+  --header-background: rgba(255, 255, 255, 0.8);
+  --header-backdrop: saturate(180%) blur(20px);
+  --aside-width: 17.5rem;
+  --bottom-nav-height: 3.5rem;
+  --bottom-nav-ios-padding: 1rem;
+  --border-radius-1: 4px;
+  --border-radius-2: 6px;
+  --border-radius-3: 0.5rem;
+  --border-radius-4: 1rem;
+  --box-shadow-1: var(--color-gray-400) 0 0 8px;
+  --aside-side-nav-width: calc(var(--aside-width) + var(--side-nav-width));
+  --container-max-width: 1366px;
+  /* font */
+  --base-font-family: "Noto Sans Korean", "Noto Sans Korea", "NotoSansKR", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+

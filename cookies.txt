@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bareungak.com	TRUE	/	FALSE	1999999999	__cfduid	d1b203079da2f5153a8113c26b456c4821590461446
+www.bareungak.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.bareungak.com	TRUE	/	FALSE	1999999999	PHPSESSID	rfut3tsg7delvuas5ta5vieru5
+www.bareungak.com	TRUE	/	FALSE	1999999999	rx_sesskey1	pynFVEUINi4sg5LoPTIbbYkD
+www.bareungak.com	TRUE	/	FALSE	1999999999	rx_sesskey2	zFDOjslgZMq59PkforaKUgkt
+www.bareungak.com	TRUE	/	FALSE	1999999999	XE_REDIRECT_URL	http%3A%2F%2Fwww.bareungak.com%2Findex.php%3Fmid%3Dcommunity_fivem_notice%26category%3D8024%26sort_index%3Dcomment_count%26order_type%3Dasc%26page%3D1%26document_srl%3D8026%26act%3DdispMemberSignUpForm
+

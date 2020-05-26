@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* Original file: modules/board/skins/slow/assets/css/article-content.scss */
+.app-article-content .xe_content ul, .app-article-content .xe_content ol {
+  padding-left: 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.app-article-content .xe_content ul {
+  list-style: inherit;
+}
+.app-article-content .xe_content ol {
+  list-style-type: decimal;
+}
+.app-article-content .xe_content a {
+  color: var(--color-primary);
+}
+.app-article-content .xe_content a:hover {
+  text-decoration: underline;
+}
+.app-article-content .xe_content h1, .app-article-content .xe_content h2, .app-article-content .xe_content h3, .app-article-content .xe_content h4, .app-article-content .xe_content h5, .app-article-content .xe_content h6 {
+  font-weight: bold;
+  line-height: 1.6;
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
+}
+.app-article-content .xe_content h1 {
+  font-size: 1.5rem;
+}
+.app-article-content .xe_content h2 {
+  font-size: 1.25rem;
+}
+.app-article-content .xe_content h3 {
+  font-size: 1rem;
+}
+.app-article-content .xe_content h4 {
+  font-size: 0.875rem;
+}
+.app-article-content .xe_content h5 {
+  font-size: 0.75rem;
+}
+.app-article-content .xe_content h6 {
+  font-size: 0.625rem;
+}
+.app-article-content .xe_content hr {
+  border-color: var(--color-gray-300);
+}
+

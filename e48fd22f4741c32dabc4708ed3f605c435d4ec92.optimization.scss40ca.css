@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* Original file: layouts/slow/public/css/optimization.scss */
+#pageSizeLayer {
+  left: 50% !important;
+  width: 90% !important;
+}
+

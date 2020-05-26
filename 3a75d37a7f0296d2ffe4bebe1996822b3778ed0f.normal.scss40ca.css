@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* Original file: widgets/content/skins/slow/assets/css/normal.scss */
+ul.app-widget-content.app-widget-content-normal {
+  margin: 0;
+  overflow: hidden;
+  border-bottom-left-radius: var(--border-radius-3);
+  border-bottom-right-radius: var(--border-radius-3);
+}
+ul.app-widget-content.app-widget-content-normal > li {
+  border-bottom: 1px solid var(--color-gray-400);
+}
+ul.app-widget-content.app-widget-content-normal > li:last-child {
+  border-bottom: none;
+}
+ul.app-widget-content.app-widget-content-normal > li > a {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  color: var(--color-black);
+  text-decoration: none;
+  transition: 0.2s;
+}
+ul.app-widget-content.app-widget-content-normal > li > a:hover {
+  background-color: var(--color-gray-300);
+}
+
